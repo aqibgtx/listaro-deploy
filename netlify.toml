@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/portal/*"
+  to = "/portal/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/admindashboard/*"
+  to = "/admindashboard/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/main/index.html"
+  status = 200
