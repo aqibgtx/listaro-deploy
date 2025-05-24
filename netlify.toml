@@ -1,3 +1,7 @@
+[build]
+  command = "npm run build:all"
+  publish = "dist-combined"
+
 [[redirects]]
   from = "/portal/*"
   to = "/portal/index.html"
